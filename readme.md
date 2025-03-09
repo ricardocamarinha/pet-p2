@@ -5,7 +5,7 @@
 
 ## 👉 Visualizar Site: <a href='https://petcare-iota.vercel.app/'>Ver Site</a>
 
-## » Tecnologias utilizadas: HTML, CSS, SASS, JS.
+## » Tecnologias utilizadas: HTML, CSS, SASS, JS, PHP.
 
 
 <h2>Capturas de tela do projeto 📸</h2>
